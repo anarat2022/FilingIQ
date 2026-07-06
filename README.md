@@ -108,16 +108,3 @@ Sources:
 ## Evaluation
 
 `eval/questions.json` has 11 question/expected-answer pairs spanning all three filings, plus one deliberately out-of-scope question ("What is the capital of France?") to verify the system correctly refuses to answer instead of hallucinating from general knowledge. `python main.py evaluate` runs each question through the full pipeline and uses an LLM-as-judge (same provider as everything else) to score the actual answer against the reference, printing a per-question score and an overall average.
-
-## Design decisions worth knowing for an interview
-
-- **Paragraph-aware chunking with overlap**: chunks are built from whole paragraphs (never split mid-sentence) up to ~400 tokens, with 60 tokens of overlap carried into the next chunk so an answer that straddles a chunk boundary is still retrievable.
-- **Similarity threshold in the retriever, not the datastore**: `SimpleRetriever` filters out low-similarity matches before they ever reach the LLM. This is what stops the system from confidently answering questions the corpus doesn't cover.
-- **No-context guard in the generator**: if retrieval returns nothing, the generator skips the LLM call entirely and returns a fixed "not found" message -- cheaper and safer than letting the model try to answer anyway.
-- **Provider swap via config, not code**: `build_embedding_function`, `build_response_generator`, and `build_evaluator` are small factory functions that return an Ollama, Gemini, or OpenAI implementation of the same interface based on `LLM_PROVIDER`. This is the same pattern you'd use in production to avoid vendor lock-in, and it's a good thing to point to when someone asks "how would you make this swappable."
-- **Retry with backoff on rate limits**: `src/retry.py` wraps the Gemini API calls so a 429 (rate limit exceeded) triggers a wait-and-retry instead of crashing the whole `evaluate` run. This came from hitting Gemini's free-tier rate limit for real while building this -- a good story for "tell me about a time you had to work around an API limitation."
-- **tiktoken with a fallback**: exact token counts via `tiktoken`, but if its encoding file can't be downloaded (e.g. restricted network), chunking falls back to a characters-per-token estimate rather than failing.
-
-## What's next
-
-This codebase is the base for the next phase of the project: adding a tool-using agent layer on top (see the project roadmap), and deploying it behind a Streamlit UI on a cloud platform.
