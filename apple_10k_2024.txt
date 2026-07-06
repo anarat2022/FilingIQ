@@ -1,0 +1,81 @@
+Apple Inc. (AAPL) | Form 10-K | Fiscal Year Ended September 28, 2024 | Filed November 1, 2024
+Source: https://www.sec.gov/Archives/edgar/data/0000320193/000032019324000123/aapl-20240928.htm
+
+PART I
+
+Item 1. Business
+
+Company Background
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+
+Products
+iPhone is the Company's line of smartphones based on its iOS operating system. The iPhone line includes iPhone 16 Pro, iPhone 16, iPhone 15, iPhone 14 and iPhone SE.
+
+Mac is the Company's line of personal computers based on its macOS operating system. The Mac line includes laptops MacBook Air and MacBook Pro, as well as desktops iMac, Mac mini, Mac Studio and Mac Pro.
+
+iPad is the Company's line of multipurpose tablets based on its iPadOS operating system. The iPad line includes iPad Pro, iPad Air, iPad and iPad mini.
+
+Wearables, Home and Accessories includes smartwatches, wireless headphones and spatial computers. The Company's line of smartwatches, based on its watchOS operating system, includes Apple Watch Ultra 2, Apple Watch Series 10 and Apple Watch SE. The Company's line of wireless headphones includes AirPods, AirPods Pro, AirPods Max and Beats products. Apple Vision Pro is the Company's first spatial computer based on its visionOS operating system.
+
+Home includes Apple TV, the Company's media streaming and gaming device based on its tvOS operating system, and HomePod and HomePod mini, high-fidelity wireless smart speakers. Accessories includes Apple-branded and third-party accessories.
+
+Services
+Advertising: The Company's advertising services include third-party licensing arrangements and the Company's own advertising platforms.
+AppleCare: The Company offers a portfolio of fee-based service and support products under the AppleCare brand.
+Cloud Services: The Company's cloud services store and keep customers' content up-to-date and available across multiple Apple devices and Windows personal computers.
+Digital Content: The Company operates various platforms, including the App Store, that allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts. The Company also offers digital content through subscription-based services, including Apple Arcade, Apple Fitness+, Apple Music, Apple News+, and Apple TV+.
+Payment Services: The Company offers payment services, including Apple Card, a co-branded credit card, and Apple Pay, a cashless payment service.
+
+Segments
+The Company manages its business primarily on a geographic basis. The Company's reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company's other reportable segments.
+
+Markets and Distribution
+The Company's customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets. The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force. The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. During 2024, the Company's net sales through its direct and indirect distribution channels accounted for 38% and 62%, respectively, of total net sales.
+
+Competition
+The markets for the Company's products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. Many of the Company's competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company's products and infringing on its intellectual property. The Company's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace.
+
+Supply of Components
+Although most components essential to the Company's business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source.
+
+Research and Development
+Because the industries in which the Company competes are characterized by rapid technological advances, the Company's ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace through research and development ("R&D"), licensing of intellectual property and acquisition of third-party businesses and technology.
+
+Intellectual Property
+The Company currently holds a broad collection of intellectual property rights relating to certain aspects of its hardware, accessories, software and services. This includes patents, designs, copyrights, trademarks, trade secrets and other forms of intellectual property rights in the U.S. and various foreign countries.
+
+Business Seasonality and Product Introductions
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand.
+
+Human Capital
+The Company believes that its people play an important role in its success, and strives to attract, develop and retain the best talent. As of September 28, 2024, the Company had approximately 164,000 full-time equivalent employees. The Company offers a wide variety of benefits for employees around the world, including health, wellness and time away, and invests in resources to help its people develop and achieve their career goals through Apple University and online classes.
+
+Item 1A. Risk Factors
+
+Macroeconomic and Industry Risks
+The Company's operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company's business, results of operations and financial condition. The Company has international operations with sales outside the U.S. representing a majority of the Company's total net sales. The Company's global supply chain is large and complex and a majority of the Company's supplier facilities, including manufacturing and assembly sites, are located outside the U.S.
+
+The Company's business can be impacted by political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions. Substantially all of the Company's manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company's business and supply chain.
+
+Global markets for the Company's products and services are highly competitive and subject to rapid technological change, and the Company may be unable to compete effectively in these markets. The Company has a minority market share in the global smartphone, personal computer and tablet markets and faces substantial competition from companies with significant technical, marketing, distribution and other resources.
+
+Business Risks
+To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and transitions of products and services. The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of which are located outside of the U.S. The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components, and on outsourcing partners primarily located in Asia, for final assembly of substantially all of the Company's hardware products.
+
+The Company's products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company's business and result in harm to the Company's reputation. The introduction of new and complex technologies, such as artificial intelligence features, can increase safety risks, including exposing users to harmful, inaccurate or other negative content and experiences.
+
+The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms, or at all. The Company's future performance depends in part on support from third-party software developers. The Company distributes third-party applications for its products through the App Store. The Company has implemented changes to iOS, iPadOS, the App Store and Safari in the European Union as it seeks to comply with the Digital Markets Act (the "DMA").
+
+The Company's success depends largely on the talents and efforts of its team members, the continued service and availability of highly skilled employees, including key personnel, and the Company's ability to nurture its distinctive and inclusive culture. Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley.
+
+The Company's business and reputation are impacted by information technology system failures and network disruptions. The Company experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis, and is at a relatively greater risk of being targeted because of its high profile and the value of the confidential information it creates, owns, manages, stores and processes.
+
+Legal and Regulatory Compliance Risks
+The Company's business, results of operations and financial condition could be adversely impacted by unfavorable results of legal proceedings or government investigations. The Company has faced and continues to face a significant number of patent claims relating to its cellular-enabled products, and new claims may arise in the future. The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased costs and other adverse effects on the Company's business.
+
+Financial summary (from SEC EDGAR data, fiscal years 2020-2022):
+- FY2022: Total Revenue $394,328 million, Net Income $99,803 million, Total Assets $352,755 million, Total Liabilities $302,083 million, Operating Cash Flow $122,151 million
+- FY2021: Total Revenue $365,817 million, Net Income $94,680 million, Total Assets $351,002 million, Total Liabilities $287,912 million, Operating Cash Flow $104,038 million
+- FY2020: Total Revenue $274,515 million, Net Income $57,411 million, Operating Cash Flow $80,674 million
+- Market value of voting stock held by non-affiliates as of March 29, 2024: approximately $2,628,553,000,000
+- Shares outstanding as of October 18, 2024: 15,115,823,000

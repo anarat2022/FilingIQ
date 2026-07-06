@@ -1,0 +1,50 @@
+Microsoft Corporation (MSFT) | Form 10-K | Fiscal Year Ended June 30, 2024 | Filed July 30, 2024
+Source: https://www.sec.gov/Archives/edgar/data/0000789019/000095017024087843/msft-20240630.htm
+
+PART I
+
+Item 1. Business
+
+General
+Microsoft is a technology company committed to making digital technology and artificial intelligence ("AI") available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. Microsoft's AI offerings, including Copilot and our Copilot stack, are already orchestrating a new era of AI transformation, driving better business outcomes across every role and industry.
+
+What We Offer
+Founded in 1975, we develop and support software, services, devices, and solutions that deliver new value for customers and help people and businesses realize their full potential. We offer cloud-based solutions that provide customers with software, services, platforms, and content, and we provide solution support and consulting services. Our products include operating systems, cross-device productivity and collaboration applications, server applications, business solution applications, desktop and server management tools, software development tools, and video games. We also design and sell devices, including PCs, tablets, gaming and entertainment consoles, and other intelligent devices.
+
+The Ambitions That Drive Us
+Our research and development efforts focus on three interconnected ambitions: reinvent productivity and business processes; build the intelligent cloud and intelligent edge platform; and create more personal computing.
+
+Reinvent Productivity and Business Processes
+Our growth depends on securely delivering continuous innovation and advancing our leading productivity and collaboration tools and services, including Microsoft 365, LinkedIn, and Dynamics 365. Microsoft 365 is an AI-first platform that brings together Office, Windows, Copilot, and Enterprise Mobility + Security. Copilot for Microsoft 365 combines AI with business data in the Microsoft Graph and Microsoft 365 applications. Microsoft Teams is a comprehensive platform for communication and collaboration. Dynamics 365 is a portfolio of intelligent business applications delivering operational efficiency and breakthrough customer experiences. Copilot Studio allows customers to customize Copilot for Microsoft 365 or build their own Copilot.
+
+Build the Intelligent Cloud and Intelligent Edge Platform
+Azure, as the foundation of the Microsoft Cloud, offers hybrid consistency, developer productivity, data and AI capabilities, and trusted security and compliance. We offer supercomputing power for AI at scale, complemented by our rapidly expanding portfolio of AI cloud services and hardware, including custom-built silicon such as Azure Maia (AI accelerator) and Azure Cobalt (CPU). Our AI platform, Azure AI, helps organizations transform by bringing intelligence and insights to employees and customers. Azure AI Studio provides a full lifecycle toolchain customers can use to ground models on their own data, create prompt workflows, and deploy them safely. GitHub Copilot is at the forefront of AI-powered software development. We have a long-term partnership with OpenAI; Azure is OpenAI's exclusive cloud provider and powers all of OpenAI's workloads. The Microsoft Intelligent Data Platform integrates databases, analytics, and governance, and Microsoft Fabric is an end-to-end unified analytics platform.
+
+Create More Personal Computing
+Windows 11 offers innovations focused on performance, productivity, and creativity, including Copilot in Windows. Copilot+ PCs are a new class of Windows 11 PCs powered by a neural processing unit for on-device AI. Copilot is an AI assistant that helps users navigate the web, answer questions, and create content. Microsoft is expanding how people globally access and play video games through Xbox Game Pass; Activision Blizzard joined Microsoft in October 2023.
+
+Operating Segments
+We operate our business and report our financial performance using three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.
+
+Productivity and Business Processes includes Office Commercial (Office 365, Microsoft Teams, Copilot for Microsoft 365), Office Consumer (Microsoft 365 Consumer, Copilot Pro), LinkedIn (Talent Solutions, Marketing Solutions, Premium Subscriptions, Sales Solutions), and Dynamics business solutions (Dynamics 365, Power Apps, Power Automate).
+
+Intelligent Cloud includes server products and cloud services such as Azure, SQL Server, Windows Server, Visual Studio, System Center, Nuance and GitHub, as well as Enterprise and partner services. Azure faces competition from Amazon, Broadcom, Google, IBM, Oracle, and open source offerings. Our AI offerings compete with AI products from hyperscalers such as Amazon and Google, as well as Anthropic, OpenAI, Meta and other open source offerings, many of which are also current or potential partners.
+
+More Personal Computing includes Windows (OEM licensing, Windows Commercial, patent licensing, Windows IoT), Devices (Surface, HoloLens, PC accessories), Gaming (Xbox hardware, Xbox Game Pass, Xbox Cloud Gaming, Activision Blizzard content), and Search and news advertising (Bing with Copilot, Microsoft Edge). Windows faces competition mainly from Apple and Google. Devices compete with Apple and Windows OEMs. Xbox competes with Amazon, Apple, Meta and Tencent gaming ecosystems, and with console platforms from Nintendo and Sony. Search and news advertising competes with Google, OpenAI, and social platforms like Meta.
+
+Corporate Social Responsibility
+In 2020, Microsoft committed to being a carbon negative, water positive, and zero waste company by 2030. Areas on track include reducing direct operational emissions (Scope 1 and 2), accelerating carbon removal, designing for circularity, and improving biodiversity. Areas not yet on track include reducing indirect emissions (Scope 3) and reducing water use.
+
+Human Capital Resources
+As of June 30, 2024, Microsoft employed approximately 228,000 people on a full-time basis: 126,000 in the U.S. and 102,000 internationally. Of the total, 86,000 were in operations, 81,000 in product research and development, 45,000 in sales and marketing, and 16,000 in general and administration. Microsoft's culture is grounded in a growth mindset. The company monitors pay equity and career progress across multiple dimensions and offers a differentiated benefits package including physical, emotional, and financial wellness programs.
+
+Digital Skills Investment
+Microsoft's Skills for Jobs initiative aims to support a skills-based labor market. As of May 2024, Microsoft trained and certified 12.6 million learners, surpassing its goal of 10 million by 2025. In June 2023, Microsoft launched an AI Skills initiative; as of June 2024, it has helped more than 2.5 million people in 92% of the world's countries learn how to use AI.
+
+Financial summary (from SEC EDGAR data, fiscal years 2020-2022):
+- FY2022: Total Revenue $198,270 million, Net Income $72,738 million, Total Assets $364,840 million, Total Liabilities $198,298 million
+- FY2021: Total Revenue $168,088 million, Net Income $61,271 million, Total Assets $333,779 million, Total Liabilities $191,791 million
+- FY2020: Total Revenue $143,015 million, Net Income $44,281 million
+- Aggregate market value of common stock held by non-affiliates as of December 31, 2023: $2.8 trillion
+- Shares outstanding as of July 25, 2024: 7,433,038,381
+- FY2024 net income (per Microsoft's own 10-K, not the summary CSV): $88,136 million

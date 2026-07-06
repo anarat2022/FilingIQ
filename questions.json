@@ -1,0 +1,46 @@
+[
+  {
+    "question": "How many full-time equivalent employees did Apple have as of the end of fiscal year 2024?",
+    "expected_answer": "Approximately 164,000 full-time equivalent employees as of September 28, 2024."
+  },
+  {
+    "question": "What is Tesla's stated mission?",
+    "expected_answer": "To accelerate the world's transition to sustainable energy."
+  },
+  {
+    "question": "What are Microsoft's three reportable operating segments?",
+    "expected_answer": "Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+  },
+  {
+    "question": "What percentage of Apple's net sales in 2024 came through direct versus indirect distribution channels?",
+    "expected_answer": "38% direct and 62% indirect distribution channels."
+  },
+  {
+    "question": "What vehicles does Tesla currently manufacture?",
+    "expected_answer": "Model 3, Model Y, Model S, Model X, and Cybertruck."
+  },
+  {
+    "question": "Who is Microsoft's exclusive cloud provider partnership with, and what does it mean for that partner's workloads?",
+    "expected_answer": "Microsoft has a long-term partnership with OpenAI; Azure is OpenAI's exclusive cloud provider and powers all of OpenAI's workloads."
+  },
+  {
+    "question": "What was Apple's total revenue in fiscal year 2022?",
+    "expected_answer": "$394,328 million (about $394.3 billion)."
+  },
+  {
+    "question": "What countries does Tesla have manufacturing facilities in, according to its 2024 10-K?",
+    "expected_answer": "In the U.S.: California, New York, Texas and Nevada. Internationally: China and Germany, with a Gigafactory announced for Monterrey, Mexico."
+  },
+  {
+    "question": "How many employees did Microsoft have as of June 30, 2024, and how were they split between the US and international?",
+    "expected_answer": "Approximately 228,000 total employees: 126,000 in the U.S. and 102,000 internationally."
+  },
+  {
+    "question": "What is Apple's Vision Pro and what operating system does it run?",
+    "expected_answer": "Apple Vision Pro is Apple's first spatial computer, based on its visionOS operating system."
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_answer": "This is a trick/out-of-scope question -- the correct system behavior is to say the answer isn't in the indexed documents, not to answer from general knowledge."
+  }
+]

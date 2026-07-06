@@ -1,0 +1,44 @@
+Tesla, Inc. (TSLA) | Form 10-K | Fiscal Year Ended December 31, 2024 | Filed January 30, 2025
+Source: https://www.sec.gov/Archives/edgar/data/0001318605/000162828025003063/tsla-20241231.htm
+
+PART I
+
+Item 1. Business
+
+Overview
+We design, develop, manufacture, sell and lease high-performance fully electric vehicles and energy generation and storage systems, and offer services related to our products. We generally sell our products directly to customers, and continue to grow our customer-facing infrastructure through a global network of vehicle showrooms and service centers, Mobile Service, body shops, Supercharger stations and Destination Chargers. Our mission is to accelerate the world's transition to sustainable energy. We believe that this mission, along with our engineering expertise, vertically integrated business model and focus on user experience differentiate us from other companies.
+
+Segment Information
+We operate as two reportable segments: (i) automotive and (ii) energy generation and storage. The automotive segment includes the design, development, manufacturing, sales and leasing of high-performance fully electric vehicles as well as sales of automotive regulatory credits, used vehicles, non-warranty maintenance services, collision, part sales, paid Supercharging, insurance services revenue and retail merchandise sales. The energy generation and storage segment includes the design, manufacture, installation, sales and leasing of solar energy generation and energy storage products and related services.
+
+Our Products and Services
+We currently manufacture five different consumer vehicles: Model 3, Y, S, X and Cybertruck. Model 3 is a four-door mid-size sedan designed for manufacturability with a base price for mass-market appeal. Model Y is a compact SUV built on the Model 3 platform. Model S is a four-door full-size sedan and Model X is a mid-size SUV. In November 2023, we entered the consumer pickup truck market with first deliveries of the Cybertruck. In 2022 we also began early production and deliveries of the Tesla Semi, a commercial electric vehicle. We continue leveraging our proprietary Full Self-Driving ("FSD") (Supervised) features, including through our purpose-built Robotaxi product, Cybercab.
+
+Energy Storage Products: Powerwall and Megapack are our lithium-ion battery energy storage products. Powerwall is designed to store energy at a home or small commercial facility. Megapack is an energy storage solution for commercial, industrial, utility and energy generation customers.
+
+Solar Energy Offerings: We sell retrofit solar energy systems to customers and channel partners, and our Solar Roof combines premium glass roof tiles with energy generation.
+
+Technology
+Our core vehicle technology competencies include powertrain engineering and manufacturing. We offer dual motor powertrain vehicles as well as vehicle powertrain technology featuring three electric motors for further increased performance. We have expertise in developing technologies, systems and software to enable self-driving vehicles using primarily vision-based technologies. Our FSD Computer runs our neural networks in our vehicles. Currently, we offer advanced driver assist systems under our Autopilot and FSD (Supervised) options; the driver is responsible for remaining fully engaged in the driving operation. In 2025, we intend to begin launching our Robotaxi business, a ride-hailing network that will eventually operate fully autonomous vehicles. We are also applying our artificial intelligence learnings from self-driving technology to the field of robotics, such as through Optimus, a robotic humanoid in development, controlled by the same AI system.
+
+Manufacturing and Supply Chain
+We currently have manufacturing facilities in the U.S. in California, New York, Texas and Nevada, and internationally in China and Germany. In March 2023, we announced the location of our next Gigafactory in Monterrey, Mexico. Our products use thousands of parts sourced from hundreds of suppliers across the world, and some procured components and systems are sourced from single suppliers. Our products use various raw materials including aluminum, steel, cobalt, lithium, nickel and copper.
+
+Governmental Programs and Incentives
+The Inflation Reduction Act of 2022 ("IRA") includes multiple incentives to promote clean energy, electric vehicles, battery and energy storage manufacture or purchase. Under current legislation, qualifying Tesla customers may receive up to $7,500 in federal tax credits for the purchase of qualified electric vehicles in the U.S. through 2032. We also earn tradable automotive regulatory credits related to zero-emission vehicles, greenhouse gas, fuel economy and clean fuel regulations, which we sell to other regulated entities.
+
+Regulation
+In the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (NHTSA), including Federal Motor Vehicle Safety Standards (FMVSS). Laws pertaining to self-driving vehicles are evolving globally; there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles, though NHTSA has published recommended guidelines. Some U.S. states have legal restrictions on the operation, registration or licensure of self-driving vehicles.
+
+Competition
+The worldwide automotive market is highly competitive and we expect it to become even more competitive as established and new automobile manufacturers enter the electric vehicle market. Cybertruck competes with other pickup trucks, Model S and Model X compete primarily with premium sedans and SUVs, and Model 3 and Model Y compete with small to medium-sized sedans and compact SUVs. In energy storage, we compete based on price, energy density and efficiency. In solar, our primary competitors are traditional local utility companies.
+
+Human Capital Resources
+As of December 31, 2024, our employee headcount worldwide was 125,665. Tesla provided its workforce with opportunities to contribute to its mission and grow professionally, earning Tesla among the Top 100 Employers of Choice in the 2024 American Opportunity Index. Employees can participate in Tesla stock ownership programs, with 92% given the opportunity to as part of their total rewards package. In 2024, over 13,000 employees worldwide took advantage of opportunities to advance their career within the Company, and 68% of managers have been promoted from internal, non-managerial positions.
+
+Financial summary (from SEC EDGAR data, fiscal years 2020-2022):
+- FY2022: Total Revenue $81,462 million, Net Income $12,587 million, Total Assets $82,338 million, Total Liabilities $36,440 million, Operating Cash Flow $14,724 million
+- FY2021: Total Revenue $53,823 million, Net Income $5,644 million, Total Assets $62,131 million, Total Liabilities $30,548 million, Operating Cash Flow $11,497 million
+- FY2020: Total Revenue $31,536 million, Net Income $862 million, Operating Cash Flow $5,943 million
+- Aggregate market value of voting stock held by non-affiliates as of June 28, 2024: $550.17 billion
+- Shares outstanding as of January 22, 2025: 3,216,517,037
